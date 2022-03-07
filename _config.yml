@@ -6,10 +6,10 @@ url: "FlokiBB.github.io"
 # Author
 author-name:    Floki The Boat Builder
 author-image:   1.jpeg
-author-job:     Blockchain Researcher and Developer
+author-job:     Blockchain Researcher && Blockchain Integration Engineer && Web3 Developer
 author-email:   FlokiBB@protonmail.com 
 author-twitter: FlokiTheBB 
-about-author:   I am a Blockchain Researcher and Blockchain Integration Engineer, and also a web3 developer. In this blog, I try to share my knowledge and the result of my new research.
+about-author:   In this blog, I try to share my knowledge and the result of my new research.
 # Social settings
 social-twitter:   FlokiTheBB
 social-facebook:
@@ -21,7 +21,7 @@ social-vk:
 social-linkedin:
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: https://github.us14.list-manage.com/subscribe?u=1238baa5627ea150941bbb035&id=ab9c4c3a87
 
 # Google Analytics
 google-analytics: # Add your identifier. For example UA-99631805-1
