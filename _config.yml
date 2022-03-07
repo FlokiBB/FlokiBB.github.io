@@ -1,1 +1,52 @@
-theme: jekyll-theme-cayman
+title: FlokiBB
+description: in this blog, I want to write my study results about blockchain-related topics.
+baseurl: "" 
+url: "FlokiBB.github.io" 
+
+# Author
+author-name:    Floki The Boat Builder
+author-image:   1.jpeg
+author-job:     Blockchain Researcher and Developer
+author-email:   FlokiBB@protonmail.com 
+author-twitter: FlokiTheBB 
+about-author:   I am a Blockchain Researcher and Blockchain Integration Engineer, and a web3 developer and architecture. In this blog, I try to share my knowledge and the result of my new research.
+# Social settings
+social-twitter:   FlokiTheBB
+social-facebook:
+social-github:    FlokiBB
+social-pinterest: 
+social-instagram: 
+social-youtube:
+social-vk:   
+social-linkedin:
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1
+
+# Comment Section (Disqus)
+disqus-identifier: Floki 
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-paginate
+
+paginate: 7
+paginate_path: "/page/:num/"
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
